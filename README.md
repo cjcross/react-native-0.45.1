@@ -1,4 +1,5 @@
 # React Native [![Build Status](https://travis-ci.org/facebook/react-native.svg?branch=master)](https://travis-ci.org/facebook/react-native) [![Circle CI](https://circleci.com/gh/facebook/react-native.svg?style=shield)](https://circleci.com/gh/facebook/react-native) [![npm version](https://badge.fury.io/js/react-native.svg)](https://badge.fury.io/js/react-native)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcjcross%2Freact-native-0.45.1.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcjcross%2Freact-native-0.45.1?ref=badge_shield)
 
 React Native enables you to build world-class application experiences on native platforms using a consistent developer experience based on JavaScript and [React](https://facebook.github.io/react). The focus of React Native is on developer efficiency across all the platforms you care about - learn once, write anywhere. Facebook uses React Native in multiple production apps and will continue investing in React Native.
 
@@ -100,3 +101,6 @@ React is [BSD licensed](./LICENSE). We also provide an additional [patent grant]
 React documentation is [Creative Commons licensed](./LICENSE-docs).
 
 Examples provided in this repository and in the documentation are [separately licensed](./LICENSE-examples), as are some of the [custom components](./LICENSE-CustomComponents).
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcjcross%2Freact-native-0.45.1.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcjcross%2Freact-native-0.45.1?ref=badge_large)
